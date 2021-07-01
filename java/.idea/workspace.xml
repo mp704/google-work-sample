@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278e28bf-6b5d-478d-9901-6c7ff403af03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ufHHQ823AczgWwzYHJhzPdfsSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.Part4Test">
+    <configuration name="Part1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google" />
+      <option name="MAIN_CLASS_NAME" value="com.google.Part1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google" />
+      <option name="MAIN_CLASS_NAME" value="com.google.Part2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google" />
+      <option name="MAIN_CLASS_NAME" value="com.google.Part3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part3Test.testSearchVideosWithTagNoResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google" />
+      <option name="MAIN_CLASS_NAME" value="com.google.Part3Test" />
+      <option name="METHOD_NAME" value="testSearchVideosWithTagNoResults" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-youtube-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google" />
+      <option name="MAIN_CLASS_NAME" value="com.google.Part4Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Part4Test" />
+        <item itemvalue="JUnit.Part2Test" />
+        <item itemvalue="JUnit.Part1Test" />
+        <item itemvalue="JUnit.Part3Test" />
+        <item itemvalue="JUnit.Part3Test.testSearchVideosWithTagNoResults" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278e28bf-6b5d-478d-9901-6c7ff403af03" name="Default Changelist" comment="" />
+      <created>1625049636075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625049636075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="123" width="904" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625136952701">
+      <screen x="0" y="23" width="1440" height="841" />
+    </state>
+    <state x="436" y="123" width="904" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.840@0.23.1440.840" timestamp="1625065500389" />
+    <state x="436" y="123" width="904" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.841@0.23.1440.841" timestamp="1625136952701" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1625138077727">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1625138077727" />
+    <state width="1208" height="217" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1625136154768" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1625137760840" />
+    <state width="909" height="217" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1625092404972" />
+    <state width="1179" height="217" key="GridCell.Tab.0.bottom/0.23.1440.843@0.23.1440.843" timestamp="1625101221801" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.844@0.23.1440.844" timestamp="1625051366194" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1625138077726">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1625138077726" />
+    <state width="1208" height="217" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1625136154767" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1625137760840" />
+    <state width="909" height="217" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1625092404971" />
+    <state width="1179" height="217" key="GridCell.Tab.0.center/0.23.1440.843@0.23.1440.843" timestamp="1625101221801" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.844@0.23.1440.844" timestamp="1625051366194" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1625138077726">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1625138077725" />
+    <state width="1208" height="217" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1625136154767" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1625137760839" />
+    <state width="909" height="217" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1625092404971" />
+    <state width="1179" height="217" key="GridCell.Tab.0.left/0.23.1440.843@0.23.1440.843" timestamp="1625101221800" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.844@0.23.1440.844" timestamp="1625051366193" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1625138077727">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1625138077727" />
+    <state width="1208" height="217" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1625136154768" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1625137760840" />
+    <state width="909" height="217" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1625092404972" />
+    <state width="1179" height="217" key="GridCell.Tab.0.right/0.23.1440.843@0.23.1440.843" timestamp="1625101221801" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.844@0.23.1440.844" timestamp="1625051366194" />
+    <state width="1208" height="270" key="GridCell.Tab.1.bottom" timestamp="1625136144733">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1208" height="270" key="GridCell.Tab.1.bottom/0.23.1440.840@0.23.1440.840" timestamp="1625136144733" />
+    <state width="1179" height="270" key="GridCell.Tab.1.bottom/0.23.1440.843@0.23.1440.843" timestamp="1625101136118" />
+    <state width="1208" height="270" key="GridCell.Tab.1.center" timestamp="1625136144732">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1208" height="270" key="GridCell.Tab.1.center/0.23.1440.840@0.23.1440.840" timestamp="1625136144732" />
+    <state width="1179" height="270" key="GridCell.Tab.1.center/0.23.1440.843@0.23.1440.843" timestamp="1625101136117" />
+    <state width="1208" height="270" key="GridCell.Tab.1.left" timestamp="1625136144732">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1208" height="270" key="GridCell.Tab.1.left/0.23.1440.840@0.23.1440.840" timestamp="1625136144732" />
+    <state width="1179" height="270" key="GridCell.Tab.1.left/0.23.1440.843@0.23.1440.843" timestamp="1625101136116" />
+    <state width="1208" height="270" key="GridCell.Tab.1.right" timestamp="1625136144733">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1208" height="270" key="GridCell.Tab.1.right/0.23.1440.840@0.23.1440.840" timestamp="1625136144733" />
+    <state width="1179" height="270" key="GridCell.Tab.1.right/0.23.1440.843@0.23.1440.843" timestamp="1625101136117" />
+  </component>
+</project>
